@@ -198,16 +198,18 @@ Like the basic method above but create always a new branch for new features and 
 Take a look at:
 
 - Free book: [Pro Git](http://git-scm.com/book/en/v2)
+- Free Codecademy course: [Learn git](https://www.codecademy.com/learn/learn-git)
 - Free Codeschool course: [Try Git](https://www.codeschool.com/courses/try-git)
 - [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials/)
-- Using Github li[GitHub Guides](https://guides.github.com/)
+- Using Github like a pro: [GitHub Guides](https://guides.github.com/)
 
 ---
 
-## Exercise 0: Try Git course
+## Exercise 0: Complete short online courses
 
-highly recommended short (15+ mins) online course at: https://www.codeschool.com/courses/try-git
+highly recommended short online courses about git command line usage at: https://www.codeschool.com/courses/try-git
+and https://www.codecademy.com/learn/learn-git
 
-(You need to create a free account to access the course)
+(You need to create a free accounts to access the courses)
 
 ---
